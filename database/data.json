@@ -1,0 +1,140 @@
+{
+  "logo": "/images/logo.png",
+  "fullLogo": "/images/footerLogo.png",
+  "menu": [
+    {
+      "id": 1,
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "name": "Hajj",
+      "path": "#hajj"
+    },
+    {
+      "id": 3,
+      "name": "Umrah",
+      "path": "#umrah"
+    },
+    {
+      "id": 4,
+      "name": "Contact",
+      "path": "#contact"
+    }
+  ],
+  "sponsorLogo": [
+    {
+      "img": "/images/US-Bangla-Logo.png"
+    },
+    {
+      "img": "/images/Emirates-Logo.png"
+    },
+    {
+      "img": "/images/Ettihad-Logo.png"
+    },
+    {
+      "img": "/images/iata-logo.png"
+    },
+    {
+      "img": "/images/Novoair-Logo.png"
+    },
+    {
+      "img": "/images/Regent-Logo.png"
+    },
+    {
+      "img": "/images/Soudiairlines-Logo.png"
+    }
+  ],
+  "serviceCategory": [
+    {
+      "name": "Hajj"
+    },
+    {
+      "name": "Umrah"
+    },
+    {
+      "name": "Inbound"
+    },
+    {
+      "name": "Outbound"
+    }
+  ],
+  "packages": {
+    "hajj": [
+      {
+        "name": "Hajj package 1",
+        "image": "/images/hajj-package.png",
+        "details": "details"
+      },
+      {
+        "name": "Hajj package 2",
+        "image": "/images/hajj-package.png",
+        "details": "details"
+      },
+      {
+        "name": "Hajj package 3",
+        "image": "/images/hajj-package.png",
+        "details": "details"
+      }
+    ],
+    "umrah": [
+      {
+        "name": "Umrah package 1",
+        "image": "/images/umrah-package.png",
+        "details": "details"
+      },
+      {
+        "name": "Umrah package 2",
+        "image": "/images/umrah-package.png",
+        "details": "details"
+      },
+      {
+        "name": "Umrah package 3",
+        "image": "/images/umrah-package.png",
+        "details": "details"
+      }
+    ],
+    "inbound": [
+      {
+        "name": "Inbound package 1",
+        "image": "/images/inbound.png",
+        "details": "details"
+      },
+      {
+        "name": "Inbound package 2",
+        "image": "/images/inbound.png",
+        "details": "details"
+      },
+      {
+        "name": "Inbound package 3",
+        "image": "/images/inbound.png",
+        "details": "details"
+      }
+    ],
+    "outbound": [
+      {
+        "name": "Outbound package 1",
+        "image": "/images/outbound.png",
+        "details": "details"
+      },
+      {
+        "name": "Outbound package 2",
+        "image": "/images/outbound.png",
+        "details": "details"
+      },
+      {
+        "name": "Outbound package 3",
+        "image": "/images/outbound.png",
+        "details": "details"
+      }
+    ]
+  },
+  "contact": {
+    "logo": "/images/footerLogo.png",
+    "mobile": "+8801715315993",
+    "mail": "nutintlbd@gmail.com",
+    "address": "37/2, FAYANAZ TOWER, 3rd FLOOR, BOXCULVERT ROAD, PURANA PALTAN, DHAKA-1000, Dhaka, Bangladesh",
+    "map": "/images/map.jpg"
+  }
+}
